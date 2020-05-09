@@ -1,0 +1,2 @@
+# kubb.is
+website
